@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layang.iml" filepath="$PROJECT_DIR$/.idea/modules/layang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layang_main.iml" filepath="$PROJECT_DIR$/.idea/modules/layang_main.iml" group="layang" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layang_test.iml" filepath="$PROJECT_DIR$/.idea/modules/layang_test.iml" group="layang" />
+    </modules>
+  </component>
+</project>

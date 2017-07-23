@@ -1,0 +1,11 @@
+{
+  "host": "localhost",
+  "ports": [2525],
+  "token": "12345678",
+  "spoolDir": "spool",
+  "tlsKey": "",
+  "tlsCert": "",
+  "configDir": "config",
+  "logDir": ""
+
+}
